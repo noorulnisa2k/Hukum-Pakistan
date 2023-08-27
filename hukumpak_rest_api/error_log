@@ -1,0 +1,801 @@
+[12-May-2022 06:00:56 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 06:00:57 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 09:05:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 09:16:23 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 09:33:41 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 10:49:09 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/regestration.php on line 8
+[12-May-2022 10:49:15 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/regestration.php on line 8
+[12-May-2022 10:49:23 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/regestration.php on line 8
+[12-May-2022 10:50:28 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/regestration.php on line 8
+[12-May-2022 10:50:32 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/regestration.php on line 8
+[12-May-2022 10:54:11 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[12-May-2022 15:54:25 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 8
+[13-May-2022 07:12:54 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:26:02 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:30:16 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:31:35 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:35:42 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:36:41 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 8
+[13-May-2022 07:45:13 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:45:55 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 07:53:50 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 8
+[13-May-2022 08:09:41 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 14
+[13-May-2022 08:09:41 Europe/London] PHP Notice:  Undefined index: password in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 15
+[13-May-2022 08:15:21 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'hukumpak_user'@'localhost' (using password: YES) in /home/hukumpak/public_html/hukumpak_rest_api/hukumpak_db_conn.php on line 20
+[13-May-2022 08:15:56 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 15
+[13-May-2022 08:15:56 Europe/London] PHP Notice:  Undefined index: password in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 16
+[13-May-2022 08:16:37 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 15
+[13-May-2022 08:16:37 Europe/London] PHP Notice:  Undefined index: password in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 16
+[13-May-2022 08:20:09 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[13-May-2022 08:20:09 Europe/London] PHP Notice:  Undefined index: password in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[13-May-2022 09:53:38 Europe/London] PHP Notice:  Undefined index: login_user_id in /home/hukumpak/public_html/hukumpak_rest_api/send_request.php on line 4
+[13-May-2022 09:53:38 Europe/London] PHP Notice:  Undefined index: doner_pk_id in /home/hukumpak/public_html/hukumpak_rest_api/send_request.php on line 5
+[13-May-2022 09:53:38 Europe/London] PHP Notice:  Undefined index: request_type in /home/hukumpak/public_html/hukumpak_rest_api/send_request.php on line 6
+[15-May-2022 14:23:44 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[15-May-2022 14:23:44 Europe/London] PHP Notice:  Undefined index: password in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[16-May-2022 06:26:35 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[16-May-2022 06:26:35 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[16-May-2022 06:26:35 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[16-May-2022 06:26:35 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[16-May-2022 11:52:01 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[16-May-2022 11:52:01 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 06:49:09 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 06:49:09 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 06:49:23 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 06:49:23 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 06:50:16 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 06:50:16 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 07:11:07 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 07:11:07 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 07:11:26 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 07:11:26 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 07:11:38 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 07:11:38 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[17-May-2022 07:12:01 Europe/London] PHP Notice:  Undefined index: EMAIL in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 4
+[17-May-2022 07:12:01 Europe/London] PHP Notice:  Undefined index: PASSWORD in /home/hukumpak/public_html/hukumpak_rest_api/login.php on line 5
+[18-May-2022 07:08:36 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 4
+[18-May-2022 07:08:36 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 6
+[18-May-2022 07:08:36 Europe/London] PHP Notice:  Undefined index: blood_group in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 7
+[18-May-2022 07:08:36 Europe/London] PHP Notice:  Undefined index: blood_unit in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 8
+[20-May-2022 07:49:40 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 4
+[20-May-2022 08:35:26 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 4
+[20-May-2022 08:38:04 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 4
+[20-May-2022 08:40:11 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 4
+[21-May-2022 10:07:48 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[21-May-2022 10:09:17 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[21-May-2022 10:09:22 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[21-May-2022 10:10:33 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 4
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 6
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: blood_group in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 7
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: blood_unit in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 8
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 4
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: email in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 6
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: blood_group in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 7
+[23-May-2022 06:32:05 Europe/London] PHP Notice:  Undefined index: blood_unit in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 8
+[23-May-2022 08:41:34 Europe/London] PHP Notice:  Undefined index: blood_grp in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 4
+[23-May-2022 08:41:34 Europe/London] PHP Notice:  Undefined index: city in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 5
+[23-May-2022 12:43:31 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[23-May-2022 12:55:32 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[23-May-2022 12:55:42 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[24-May-2022 07:26:36 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[24-May-2022 07:44:48 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[24-May-2022 10:27:31 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[24-May-2022 10:29:36 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[25-May-2022 08:04:35 Europe/London] PHP Notice:  Undefined index: patientID in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_data.php on line 4
+[25-May-2022 08:04:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_data.php on line 10
+[25-May-2022 09:11:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:12:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:12:16 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:12:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:12:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:14:55 Europe/London] PHP Notice:  Undefined index: blood_grp in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 4
+[25-May-2022 09:14:55 Europe/London] PHP Notice:  Undefined index: city in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 5
+[25-May-2022 09:18:26 Europe/London] PHP Notice:  Undefined index: LogiID in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 4
+[25-May-2022 09:18:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:19:33 Europe/London] PHP Notice:  Undefined index: LogiID in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 4
+[25-May-2022 09:19:33 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 09:20:02 Europe/London] PHP Notice:  Undefined index: LogiID in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 4
+[25-May-2022 09:20:02 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/verify_donor.php on line 10
+[25-May-2022 11:06:56 Europe/London] PHP Notice:  Undefined index: doner_pk_id in /home/hukumpak/public_html/hukumpak_rest_api/send_request.php on line 5
+[25-May-2022 12:10:49 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:10:49 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:10:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 14
+[25-May-2022 12:11:20 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:11:20 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:11:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 14
+[25-May-2022 12:12:14 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:12:14 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:12:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 14
+[25-May-2022 12:12:14 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 21
+[25-May-2022 12:12:56 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:12:56 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 12
+[25-May-2022 12:12:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 14
+[25-May-2022 12:12:56 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 21
+[25-May-2022 12:13:58 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:13:58 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:13:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:13:58 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[25-May-2022 12:14:29 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:14:29 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:14:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:14:29 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[25-May-2022 12:14:31 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:14:31 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:14:31 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:14:31 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[25-May-2022 12:35:19 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:19 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:35:19 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[25-May-2022 12:35:47 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:47 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:35:47 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[25-May-2022 12:35:48 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:48 Europe/London] PHP Warning:  mysqli_query(): Empty query in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 13
+[25-May-2022 12:35:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 15
+[25-May-2022 12:35:48 Europe/London] PHP Notice:  Undefined variable: sql in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 22
+[28-May-2022 07:36:14 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 4
+[28-May-2022 07:36:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 19
+[28-May-2022 07:36:19 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 4
+[28-May-2022 07:36:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 19
+[28-May-2022 08:24:35 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[30-May-2022 05:26:28 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 4
+[30-May-2022 05:26:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[30-May-2022 12:31:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/update_request_status.php on line 14
+[30-May-2022 12:36:01 Europe/London] PHP Notice:  Undefined index: donorID in /home/hukumpak/public_html/hukumpak_rest_api/check_notification_donor.php on line 4
+[30-May-2022 12:36:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/check_notification_donor.php on line 15
+[30-May-2022 12:38:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/update_request_status.php on line 14
+[30-May-2022 12:43:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/update_request_status.php on line 14
+[30-May-2022 12:44:17 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[01-Jun-2022 12:01:07 Europe/London] PHP Notice:  Undefined index: hospital in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 10
+[07-Jun-2022 11:50:55 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:50:55 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:51:36 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:51:36 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:51:59 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:51:59 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:55:48 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:55:48 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:56:49 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:56:49 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:57:42 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:57:42 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 11:57:50 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 11:57:50 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:00:14 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:00:14 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:02:17 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:02:17 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:02:54 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:02:54 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:05:50 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:05:50 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:07:58 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:07:58 Europe/London] PHP Notice:  Undefined variable: fullname in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 20
+[07-Jun-2022 12:13:38 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:13:40 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[07-Jun-2022 12:19:38 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[08-Jun-2022 05:03:13 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[08-Jun-2022 07:14:50 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[08-Jun-2022 07:54:12 Europe/London] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[08-Jun-2022 15:42:58 Asia/Karachi] PHP Notice:  Undefined variable: email_from in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 15
+[09-Jun-2022 06:48:28 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:48:41 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:49:38 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:49:38 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_STARTTLS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:49:41 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:49:41 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_STARTTLS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:49:43 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:49:43 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_STARTTLS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:50:08 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:50:08 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_STARTTLS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:51:20 Europe/London] PHP Notice:  Undefined index: loginID in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 4
+[09-Jun-2022 06:51:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[09-Jun-2022 06:51:28 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:51:28 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_STARTTLS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:52:04 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:52:04 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_SMTPS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:52:05 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:52:05 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_SMTPS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:52:05 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:52:05 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_SMTPS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:52:05 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:52:05 Europe/London] PHP Fatal error:  Uncaught Error: Undefined class constant 'ENCRYPTION_SMTPS' in /home/hukumpak/public_html/hukumpak_rest_api/test.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/test.php on line 13
+[09-Jun-2022 06:52:20 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 06:57:38 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:04:27 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:04:51 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:06:14 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:06:57 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:07:05 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:08:40 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:17:34 Europe/London] PHP Notice:  Undefined variable: email in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 2
+[09-Jun-2022 07:17:34 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:40:31 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:41:27 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 07:46:16 Europe/London] PHP Warning:  file_get_contents(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 7
+[09-Jun-2022 07:46:16 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 08:02:34 Europe/London] PHP Warning:  file_get_contents(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 7
+[09-Jun-2022 08:02:34 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 08:08:11 Europe/London] PHP Warning:  file_get_contents(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 7
+[09-Jun-2022 08:08:11 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 08:13:32 Europe/London] PHP Warning:  file_get_contents(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 7
+[09-Jun-2022 08:13:32 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 08:13:32 Europe/London] PHP Warning:  include(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 32
+[09-Jun-2022 08:13:32 Europe/London] PHP Warning:  include(email_verification_template.html): failed to open stream: No such file or directory in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 32
+[09-Jun-2022 08:13:32 Europe/London] PHP Warning:  include(): Failed opening 'email_verification_template.html' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 32
+[09-Jun-2022 08:18:54 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 08:53:40 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 10:57:18 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 10:57:49 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:39:39 Europe/London] PHP Notice:  Undefined variable: opt in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 8
+[09-Jun-2022 11:39:39 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:40:39 Europe/London] PHP Notice:  Undefined variable: opt in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 8
+[09-Jun-2022 11:40:39 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:41:54 Europe/London] PHP Notice:  Undefined variable: opt in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 8
+[09-Jun-2022 11:41:54 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:42:31 Europe/London] PHP Notice:  Undefined variable: opt in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 8
+[09-Jun-2022 11:42:31 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:43:51 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 11:59:15 Europe/London] PHP Notice:  Undefined variable: opt in /home/hukumpak/public_html/hukumpak_rest_api/email_verification.php on line 8
+[09-Jun-2022 11:59:15 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 12:01:20 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 12:04:11 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 16:28:58 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 16:31:11 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 16:45:25 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 12:46:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/validate_otp.php on line 13
+[09-Jun-2022 16:49:55 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jun-2022 16:53:13 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[22-Jun-2022 11:27:52 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[22-Jun-2022 11:41:04 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[22-Jun-2022 11:53:25 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jun-2022 07:05:11 Europe/London] PHP Notice:  Undefined index: donorID in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_pending_request.php on line 4
+[29-Jun-2022 07:05:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_pending_request.php on line 15
+[29-Jun-2022 08:10:28 Europe/London] PHP Notice:  Array to string conversion in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 7
+[29-Jun-2022 08:12:58 Europe/London] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 7
+[29-Jun-2022 08:17:46 Europe/London] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 7
+[29-Jun-2022 08:18:28 Europe/London] PHP Notice:  Array to string conversion in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 7
+[29-Jun-2022 08:19:36 Europe/London] PHP Notice:  Array to string conversion in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 7
+[29-Jun-2022 08:23:06 Europe/London] PHP Notice:  Array to string conversion in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 08:25:05 Europe/London] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 08:25:48 Europe/London] PHP Notice:  Undefined property: stdClass::$sm_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 08:30:01 Europe/London] PHP Notice:  Undefined property: stdClass::$0 in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 12
+[29-Jun-2022 08:33:17 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id_ in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 12
+[29-Jun-2022 10:49:55 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:49:55 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:49:55 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:51:04 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:51:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:51:04 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:51:22 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:51:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:51:22 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:51:57 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:51:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:51:57 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:53:26 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:53:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:53:26 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:54:02 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:54:02 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:54:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:54:31 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:54:31 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:54:31 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:55:30 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:55:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:55:30 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:55:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 11
+[29-Jun-2022 10:55:30 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 23
+[29-Jun-2022 10:57:37 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:57:37 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 10:57:41 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 10:57:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 11:23:10 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:23:10 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 11:23:23 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:23:23 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 11:23:24 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:23:24 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 11:23:25 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:23:25 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 24
+[29-Jun-2022 11:24:13 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:24:13 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 25
+[29-Jun-2022 11:24:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:24:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 25
+[29-Jun-2022 11:24:45 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 10
+[29-Jun-2022 11:24:45 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 27
+[29-Jun-2022 11:24:46 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 10
+[29-Jun-2022 11:24:46 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 27
+[29-Jun-2022 11:24:47 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 10
+[29-Jun-2022 11:24:47 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 27
+[29-Jun-2022 11:24:47 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 10
+[29-Jun-2022 11:24:47 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 27
+[29-Jun-2022 11:24:47 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 10
+[29-Jun-2022 11:24:47 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 27
+[29-Jun-2022 11:25:53 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:25:55 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:26:39 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:26:40 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:26:40 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:07 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:07 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:07 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 8
+[29-Jun-2022 11:27:50 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[29-Jun-2022 11:27:50 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[29-Jun-2022 11:28:44 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[29-Jun-2022 11:28:44 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[29-Jun-2022 11:29:03 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[29-Jun-2022 11:29:03 Europe/London] PHP Notice:  Undefined property: stdClass::$sender_id in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 9
+[30-Jun-2022 11:32:56 Europe/London] PHP Notice:  Undefined index: APPROVAL in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 4
+[30-Jun-2022 11:32:56 Europe/London] PHP Notice:  Undefined index: REQ_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 5
+[30-Jun-2022 11:32:56 Europe/London] PHP Notice:  Undefined index: PATIENT_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 6
+[30-Jun-2022 11:33:25 Europe/London] PHP Notice:  Undefined index: APPROVAL in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 4
+[30-Jun-2022 11:33:25 Europe/London] PHP Notice:  Undefined index: REQ_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 5
+[30-Jun-2022 11:33:25 Europe/London] PHP Notice:  Undefined index: PATIENT_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 6
+[30-Jun-2022 11:36:59 Europe/London] PHP Notice:  Undefined index: APPROVAL in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 4
+[30-Jun-2022 11:36:59 Europe/London] PHP Notice:  Undefined index: REQ_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 5
+[30-Jun-2022 11:36:59 Europe/London] PHP Notice:  Undefined index: PATIENT_ID in /home/hukumpak/public_html/hukumpak_rest_api/donor_request_approval.php on line 6
+[30-Jun-2022 11:41:51 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[30-Jun-2022 11:46:20 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[30-Jun-2022 11:52:38 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[01-Jul-2022 06:01:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[01-Jul-2022 06:14:32 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[01-Jul-2022 10:14:59 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[01-Jul-2022 06:27:00 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[01-Jul-2022 06:31:38 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[04-Jul-2022 07:48:17 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[04-Jul-2022 07:54:17 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[04-Jul-2022 09:58:24 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[06-Jul-2022 08:10:07 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[06-Jul-2022 09:04:48 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[06-Jul-2022 09:20:59 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[07-Jul-2022 12:31:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:00:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:00:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:01:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:01:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:01:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:01:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:02:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:03:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[08-Jul-2022 06:04:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[10-Jul-2022 00:14:14 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jul-2022 20:15:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[12-Jul-2022 15:01:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 06:01:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 10:08:53 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[14-Jul-2022 06:10:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 06:12:45 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 06:13:01 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 06:13:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 06:13:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 06:14:30 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 07:21:18 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 16:52:19 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[14-Jul-2022 12:53:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 12:53:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 12:54:38 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:54:42 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:54:54 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:54:56 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:55:01 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:55:11 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[14-Jul-2022 12:55:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[14-Jul-2022 12:55:48 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[15-Jul-2022 06:49:39 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[15-Jul-2022 12:13:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[15-Jul-2022 12:26:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[15-Jul-2022 12:27:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[16-Jul-2022 07:04:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/user_data.php on line 20
+[16-Jul-2022 07:16:57 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:18:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:20:01 Europe/London] PHP Notice:  Undefined index: donated in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 15
+[16-Jul-2022 07:20:03 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:28:08 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:34:05 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:35:00 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:39:14 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 07:39:57 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:17:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:22:42 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:34:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:05 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:09 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:12 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:19 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:19 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:20 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:23 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:26 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:27 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:32 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:34 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:36 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:39 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:43 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:50 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:35:55 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:03 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:07 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:13 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:15 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:21 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:23 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:27 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:33 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:36 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:44 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:52 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:36:55 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:03 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:08 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:10 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:12 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:15 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:17 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:24 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:33 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:42 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:47 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:50 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:50 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:52 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:37:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:05 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:14 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:37 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:43 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:46 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:48 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:51 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:52 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:38:59 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:39:04 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:39:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:39:12 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:39:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:39:59 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:40:03 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:41:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:41:43 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:41:52 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:42:00 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:42:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:42:30 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:43:22 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:43:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:44:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:44:23 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 09:45:34 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[16-Jul-2022 15:39:12 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[17-Jul-2022 08:40:45 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:40:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:41:04 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:41:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:42:04 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:42:19 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:42:26 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:42:59 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:43:06 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:43:12 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:43:28 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[17-Jul-2022 08:44:43 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[20-Jul-2022 04:18:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 07:46:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 07:47:13 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 07:51:54 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 12:17:54 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jul-2022 22:02:43 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jul-2022 19:17:52 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:18:00 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:18:10 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:19:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:19:11 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:19:24 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:19:32 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:20:06 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:20:14 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:20:18 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:20:32 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 19:21:35 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:27:27 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:27:37 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:27:46 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:28:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:28:48 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:29:04 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:29:14 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:29:47 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:29:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:30:02 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:30:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 20:31:27 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:23:12 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:23:22 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:24:00 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:24:15 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:24:48 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:24:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:25:16 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:25:26 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:25:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:26:18 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 22:27:01 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:33:26 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:33:35 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:33:42 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:34:33 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:34:41 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:34:56 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:35:05 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:35:36 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:35:44 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:35:54 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:36:01 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:36:31 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[21-Jul-2022 23:37:27 Europe/London] PHP Notice:  Undefined variable: output in /home/hukumpak/public_html/hukumpak_rest_api/get_patient_info.php on line 31
+[26-Jul-2022 11:33:18 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[26-Jul-2022 11:58:38 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[26-Jul-2022 12:12:25 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 09:41:35 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 16:07:37 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 13:14:03 Europe/London] PHP Notice:  Undefined index: donated in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 15
+[27-Jul-2022 13:14:03 Europe/London] PHP Notice:  Undefined index: lastDonated in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 16
+[27-Jul-2022 13:14:03 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_donor_form.php on line 17
+[27-Jul-2022 13:38:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 18
+[27-Jul-2022 13:39:01 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 18
+[27-Jul-2022 13:41:35 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 18
+[27-Jul-2022 13:41:39 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 18
+[27-Jul-2022 14:15:59 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 14:16:30 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 14:16:50 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jul-2022 14:16:56 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[28-Jul-2022 07:37:04 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 14
+[28-Jul-2022 07:37:04 Europe/London] PHP Notice:  Undefined index: contact_no in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 15
+[28-Jul-2022 07:37:04 Europe/London] PHP Notice:  Undefined index: transportation in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 16
+[28-Jul-2022 08:04:54 Europe/London] PHP Notice:  Undefined index: note in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 14
+[28-Jul-2022 08:04:54 Europe/London] PHP Notice:  Undefined index: contact_no in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 15
+[28-Jul-2022 08:04:54 Europe/London] PHP Notice:  Undefined index: transportation in /home/hukumpak/public_html/hukumpak_rest_api/submit_patient_form.php on line 16
+[28-Jul-2022 18:57:53 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[31-Jul-2022 18:15:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:15:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:16:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:16:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:16:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:17:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:19:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:23:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:23:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:25:33 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:27:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:27:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:28:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:30:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:30:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:31:02 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:31:33 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:31:34 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[31-Jul-2022 18:31:36 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_locations_data.php on line 11
+[01-Aug-2022 21:15:19 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[02-Aug-2022 06:01:38 Europe/London] PHP Notice:  Undefined index: user_id in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 6
+[02-Aug-2022 06:01:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_donor_data.php on line 29
+[03-Aug-2022 18:40:43 Europe/London] PHP Notice:  Undefined variable: co in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 10
+[03-Aug-2022 18:40:43 Europe/London] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 10
+[03-Aug-2022 18:40:43 Europe/London] PHP Notice:  Undefined variable: co in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 11
+[03-Aug-2022 18:40:43 Europe/London] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 11
+[03-Aug-2022 18:46:19 Europe/London] PHP Notice:  Undefined variable: co in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 10
+[03-Aug-2022 18:46:19 Europe/London] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 10
+[03-Aug-2022 18:46:19 Europe/London] PHP Notice:  Undefined variable: co in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 11
+[03-Aug-2022 18:46:19 Europe/London] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/hukumpak/public_html/hukumpak_rest_api/submit_task_details.php on line 11
+[04-Aug-2022 02:58:04 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[04-Aug-2022 14:46:40 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:46:48 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:50:31 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:50:33 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:50:36 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:50:44 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:50:46 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:52:19 Europe/London] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 10
+[04-Aug-2022 14:53:59 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:54:04 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:54:11 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:55:48 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:55:53 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:56:55 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 14:57:47 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 13
+[04-Aug-2022 15:00:32 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:01:30 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:02:14 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:02:59 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:36:18 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:36:18 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:36:21 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:36:21 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:37:12 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:37:32 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:37:32 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 25
+[04-Aug-2022 15:38:00 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:38:00 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 25
+[04-Aug-2022 15:38:53 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:41:26 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:41:26 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:42:35 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:42:35 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:42:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 18
+[04-Aug-2022 15:46:51 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:46:51 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:46:51 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:46:51 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 25
+[04-Aug-2022 15:47:28 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:47:28 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:47:28 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 14
+[04-Aug-2022 15:47:28 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 25
+[04-Aug-2022 15:51:12 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 19
+[04-Aug-2022 15:54:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:54:56 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 18
+[04-Aug-2022 15:54:56 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 21
+[04-Aug-2022 15:55:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:55:14 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 18
+[04-Aug-2022 15:55:14 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 21
+[04-Aug-2022 15:55:14 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 32
+[04-Aug-2022 15:56:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 15:56:01 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 18
+[04-Aug-2022 15:56:01 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 21
+[04-Aug-2022 15:56:01 Europe/London] PHP Notice:  Undefined variable: value in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 32
+[04-Aug-2022 15:58:13 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 11
+[04-Aug-2022 16:03:57 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 22
+[04-Aug-2022 16:04:54 Europe/London] PHP Notice:  Undefined variable: cityName in /home/hukumpak/public_html/hukumpak_rest_api/get_lbs_sub_categories.php on line 22
+[04-Aug-2022 17:21:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/get_category_value.php on line 9
+[06-Aug-2022 17:34:48 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[11-Aug-2022 17:01:46 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:03:23 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:04:28 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:06:41 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:06:41 Europe/London] PHP Notice:  Undefined variable: myArray in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 23
+[11-Aug-2022 17:08:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:08:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:11:18 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:13:51 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:14:37 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:15:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:16:02 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:16:46 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:18:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:18:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:18:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:20:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:21:13 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:47:23 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:47:41 Europe/London] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:51:49 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:53:35 Europe/London] PHP Notice:  Array to string conversion in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 21
+[11-Aug-2022 17:54:38 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_result() in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:55:23 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 17:55:38 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 20
+[11-Aug-2022 18:18:25 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 24
+[11-Aug-2022 18:23:44 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 24
+[11-Aug-2022 18:26:23 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 24
+[12-Aug-2022 03:57:51 Europe/London] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[12-Aug-2022 06:55:41 Europe/London] PHP Notice:  Undefined variable: result in /home/hukumpak/public_html/hukumpak_rest_api/submit_business_form.php on line 24
+[15-Aug-2022 14:46:15 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[15-Aug-2022 16:45:32 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[15-Aug-2022 22:47:53 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
+[18-Aug-2022 07:49:19 Asia/Karachi] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/hukumpak/public_html/hukumpak_rest_api/phpmailer/PHPMailerAutoload.php on line 45
